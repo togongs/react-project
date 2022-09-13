@@ -1,0 +1,25 @@
+.login-button {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.nav-section {
+  display: flex;
+  justify-content: center;
+}
+.menu-list {
+  display: flex;
+  /* li태그 점 사라짐 */
+  list-style-type: none;
+}
+.menu-list li {
+  padding: 10px;
+}
+.menu-area {
+  display: flex;
+  justify-content: center;
+}
+.product-img {
+  display: flex;
+  justify-content: flex-end;
+}
